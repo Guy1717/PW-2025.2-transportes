@@ -19,4 +19,7 @@ public abstract class Pessoa {
 	private String cpf;
 	private String telefone;
 
+	// getNome() ?
+	// void avaliar(Avaliavel alvo, int nota){};
+
 }
